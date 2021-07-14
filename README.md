@@ -8,8 +8,8 @@
 
 ## 💻 Sobre o projeto <a name = "-sobre"></a>
 
-Um botão que dá a ilusão de estar aceso com um rosa/roxo Neon, assim como 0.125rem ao redor do botão, alguns feito hover e ::before/::after
+O projeto com base em criar uma ilusão de cor Neon ao redor e no botão. 100% CSS com ::before/::after @keyframes e alguns animation, efeitos hover inclusos. 
 
 <p align="center">
-  <img src="img/Neon_Button.png" width="1430" title="Type image, not a gif ">
+  <img src="img/Neon_Button.png" width="1430" title="Neon image, not a gif ">
 </p>
